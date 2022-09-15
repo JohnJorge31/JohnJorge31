@@ -5,8 +5,6 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en mi GitHub, donde actualizare archivos, programas, Scrpits y clases de programacion.
 
-- 📫 Contactame: **johnaaronjorge@gmail.com | 1284536@senati.pe**
-
 ## Mis Aprendisajes
 <table><tr><td valign="top" width="33%">
 
