@@ -9,14 +9,6 @@
 
 - 📫 Contactame: **johnaaronjorge@gmail .com | 1284536@senati.pe**
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-
-- 🌱 Actualmente estoy aprendiendo más en el apartado de **Java y Full -Stack Vue**
-
-<br/>  
-
-
 ## Mis Aprendisajes
 <table><tr><td valign="top" width="33%">
 
