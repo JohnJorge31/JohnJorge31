@@ -1,13 +1,11 @@
 <h1 align="center">Hola soy John Aaron</h1>
 <h3 align="center">Técnico Ingeniero de Software con Inteligencia Artificial</h3>
 
-- 🌱 Actualmente estoy aprendiendo más en el apartado de **Java y Full -Stack Vue**
+- 🤝 En la actualidad busco **aprender nuevas cosas de la tecnologia, tanto como la nuve o la programacion Orientada a Objetos**
 
-- 🤝 Estoy buscando mis practicas en **empresas nacionales de manera remota o presencial**
+- 👨‍💻 Todos mis proyectos están disponibles en mi GitHub, donde actualizare archivos, programas, Scrpits y clases de programacion.
 
-- 👨‍💻 Todos mis proyectos están disponibles en [mi GitHub](mi GitHub)
-
-- 📫 Contactame: **johnaaronjorge@gmail .com | 1284536@senati.pe**
+- 📫 Contactame: **johnaaronjorge@gmail.com | 1284536@senati.pe**
 
 ## Mis Aprendisajes
 <table><tr><td valign="top" width="33%">
@@ -22,7 +20,6 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
@@ -58,7 +55,7 @@
 
 ## Mis Redes Sociales 
 <div align="center">
-<a href="https://github.com/jhohnjorge31" target="_blank">
+<a href="https://github.com/johnjorge31" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/iibluee_" target="_blank">
@@ -67,7 +64,7 @@
 <a href="https://linkedin.com/in/johnjorge31" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/choquitodev" target="_blank">
+<a href="https://www.youtube.com/user/ChoquitoDev" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
